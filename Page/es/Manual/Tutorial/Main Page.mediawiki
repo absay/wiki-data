@@ -1,13 +1,13 @@
 [[Translation:en/Manual/Tutorial/Main Page]]
 
 {{en/Tabs|5|1
-|es/Manual/Tutorial/Tutorial|1. Inicio<!--
+|es/Manual/Tutorial/Inicio|1. Inicio<!--
 -->|es/Manual/Tutorial/Autobuses|2. Autobuses<!--
 -->|es/Manual/Tutorial/Trenes|3. Trenes<!--
 -->|es/Manual/Tutorial/Aviones|4. Aviones<!--
 -->|es/Manual/Tutorial/Fin|5. Final}}
 <div style="padding:.5em 1em 1em 1em; border-top:none; background-color:#f1f2fe; color:#000;">
-{{es/Manual/Tutorial/Tutorial}}
+{{es/Manual/Tutorial/Inicio}}
 Bienvenido al tutorial básico de OpenTTD. En unos 30 minutos, aprenderás cómo empezar a jugar y cómo crear rutas de autobuses y trenes. Si te quedas atascado en el juego, posa el puntero sobre algún botón para ver una descripción de lo que hace. La tabla a la derecha de esta página muestra tutoriales más detallados sobre aspectos concretos del juego para que, si quieres, puedas mirar si hay algo más específico que quieras aprender.
 
 == Inicio del juego ==

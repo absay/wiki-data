@@ -4,10 +4,10 @@
 |es/Manual/Tutorial/Dos andenes|1. Dos vías<!--
 -->|es/Manual/Tutorial/Dos vías|2. Dos vías}}
 <div style="padding:.5em 1em 1em 1em; border-top:none; background-color:#f1f2fe; color:#000;">
-{{es/Manual/Tutorial/Tutorial}}
+{{es/Manual/Tutorial/Inicio}}
 Ahora que ya ha construido su primera línea férrea, si quiere, puede ampliarla con más trenes y más andenes.
 
-Tras el [[es/Manual/Tutorial/Tutorial|tutorial anterior]] debería tener un ferrocarril parecido a la imagen inferior.
+Tras el [[es/Manual/Tutorial/Inicio|tutorial anterior]] debería tener un ferrocarril parecido a la imagen inferior.
 {{en/Phototable|[[File:en/Manual/Tutorial/Singletrain.png|400px]]|Dos estaciones de un andén y un tren.|none}}
 
 Utilizamos este ejemplo por comodidad, ya que ambas estaciones aparecen en una sola imagen. En su juego, quizás tenga una vía mucho más larga, o puede que haya dispuesto las estaciones de una forma distinta.

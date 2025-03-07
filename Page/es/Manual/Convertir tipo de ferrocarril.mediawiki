@@ -1,5 +1,5 @@
 [[Translation:en/Manual/Convert rail]]
-{{es/Manual/Tutorial/Tutorial}}
+{{es/Manual/Tutorial/Inicio}}
 ==Convertir a otro tipo de ferrocarril==
 Para seleccionar el [[es/Manual/Base Set/Tipos de ferrocarril|tipo de ferrocarril]] al que desea convertir, haga clic sobre el botón de construir ferrocarriles del menú principal y manténgalo presionado: se desplegará un menú con las distintas opciones. Elija la que considere adecuada. 
 [[File:es/Manual/Convert rail menu.png|none]]

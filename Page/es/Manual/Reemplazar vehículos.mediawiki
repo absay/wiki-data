@@ -1,5 +1,5 @@
 [[Translation:en/Manual/Replace vehicles]]
-{{es/Manual/Tutorial/Tutorial}}
+{{es/Manual/Tutorial/Inicio}}
 = Reemplazar manualmente =
 Se puede reemplazar un solo vehículo sin perder su lista de órdenes siguiendo estos pasos:
 #Envíe el vehículo a un depósito.

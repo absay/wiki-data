@@ -4,7 +4,7 @@
 |es/Manual/Tutorial/Dos andenes|1. Dos vías<!--
 -->|es/Manual/Tutorial/Dos vías|2. Dos vías}}
 <div style="padding:.5em 1em 1em 1em; border-top:none; background-color:#f1f2fe; color:#000;">
-{{es/Manual/Tutorial/Tutorial}}
+{{es/Manual/Tutorial/Inicio}}
 Cuando se utiliza una única vía para varios trenes que se mueven entre dos estaciones, puede ocurrir que un tren deba esperar mucho tiempo antes de poder usar la vía, sobre todo si es muy larga. Esto se debe a que sólo puede circular un tren en cada tramo (bloque) de vías al mismo tiempo, para así evitar colisiones y alcances.
 
 == Vía doble parcial ==
